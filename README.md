@@ -10,6 +10,7 @@ The website includes smooth navigation, section-wise animations, and a user-frie
 ![image](https://github.com/user-attachments/assets/7580e122-6749-4eb6-92f8-68a0cb0c0693)
 
 Features
+
 1.Home Section: Brief introduction with a welcoming design.
 2.About Section: Personal background and a short bio.
 3.Education Section: Academic details and qualifications.
@@ -24,6 +25,7 @@ Features
 ![image](https://github.com/user-attachments/assets/d3f6d417-0ae0-441d-a3c5-9f67483a71c2)
 
 Technologies Used
+
 1.HTML5   
 ![image](https://github.com/user-attachments/assets/8cc9416c-003d-4398-b637-b1239afe0016)
 
